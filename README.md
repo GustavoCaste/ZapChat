@@ -1,2 +1,2 @@
 # ZapChat
-Chat em tempo real
+Chat em tempo real utilizando o Framework Flet
